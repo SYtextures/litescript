@@ -2,3 +2,4 @@
 #modulepath==modules
 #corepath==core
 #configfile==version.lsettings
+#varsionfile==version.lsettings
