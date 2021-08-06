@@ -1,0 +1,2 @@
+cd core
+npm i
